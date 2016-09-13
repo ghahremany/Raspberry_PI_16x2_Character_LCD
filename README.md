@@ -14,4 +14,9 @@ Raspberry PI 16x2 Character LCD
 ## Contact us
 code developer : Mohammad Javad GHahremany
 https://github.com/ghahremany
-ghahremany.mj@gmail.com
+ 
+![Email](https://img.shields.io/badge/Email-ghahremany.mj@gmail.com-blue.svg) 
+
+## License
+
+See the [LICENSE](https://github.com/ghahremany/Raspberry_PI_16x2_Character_LCD/blob/master/LICENSE) file.
