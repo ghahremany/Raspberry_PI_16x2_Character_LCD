@@ -1,6 +1,6 @@
 Raspberry PI 16x2 Character LCD
 =============
-+ version : 0.1
+![version](https://img.shields.io/badge/version-0.1-orange.svg) 
 
 ## How to make and run
 
